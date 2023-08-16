@@ -40,11 +40,11 @@ html {
 }
 
 /*----global ----*/
-header {
+/* header {
   background-image: url("./image/back.jpg");
   background-size: cover;
   height: 100%;
-}
+} */
 
 header .container_content {
   background-color: rgba(0, 0, 0, 0.4);
